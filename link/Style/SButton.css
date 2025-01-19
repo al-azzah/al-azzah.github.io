@@ -1,6 +1,6 @@
 .circle ul li a:hover {
     transform: translate(0, -10px);
-    color: #000000;
+    color: #1f4294;
   }
   
   .circle ul li .fa-instagram:hover {
@@ -16,7 +16,7 @@
   }
   
   .circle ul li .fa-tiktok:hover {
-    color: #010101;
+    color: #1f4294;
   }
   
   .circle ul li .fa-pinterest:hover {
